@@ -7,7 +7,7 @@
 <h1 align="left">
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm RACHIT KALE
 
-### 🚀 Final Year IT Student | Aspiring Software Development Engineer
+### Final Year IT Student | Aspiring Software Development Engineer
 
 <p>
 Writing code that works... until I touch it again.🤣  <br>
