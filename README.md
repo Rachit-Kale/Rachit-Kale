@@ -69,6 +69,17 @@ Most of my time is spent building full-stack applications, convincing TypeScript
 
 ---
 
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img width="608" height="316" alt="image" src="https://github.com/user-attachments/assets/bc82b093-941a-446d-baf7-245355fc69a2" />
+
+
+</p>
+
+---
+
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -76,17 +87,6 @@ Most of my time is spent building full-stack applications, convincing TypeScript
 <img src="https://github-readme-stats-fast.vercel.app/api?username=RACHIT-KALE&show_icons=true&theme=tokyonight"/>
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RACHIT-KALE&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img width="608" height="316" alt="image" src="https://github.com/user-attachments/assets/bc82b093-941a-446d-baf7-245355fc69a2" />
-
 
 </p>
 
