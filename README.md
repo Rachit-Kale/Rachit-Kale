@@ -63,18 +63,7 @@ Most of my time is spent building full-stack applications, convincing TypeScript
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,angular,html,css,tailwind,nodejs,postgres,mongodb,firebase,docker,git&perline=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img width="608" height="316" alt="image" src="https://github.com/user-attachments/assets/bc82b093-941a-446d-baf7-245355fc69a2" />
-
+<img src="https://skillicons.dev/icons?i=js,ts,react,angular,html,css,tailwind,nodejs,expressjs,postgres,mongodb,firebase,docker,git&perline=7"/>
 
 </p>
 
