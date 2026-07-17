@@ -69,11 +69,11 @@ Most of my time is spent building full-stack applications, convincing TypeScript
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=RACHIT-KALE&show_icons=true&theme=tokyonight"/>
+  
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=RACHIT-KALE&theme=tokyonight"/>
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RACHIT-KALE&layout=compact&theme=tokyonight"/>
 
