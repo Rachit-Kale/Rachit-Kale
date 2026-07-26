@@ -28,7 +28,7 @@ Most of my time is spent building full-stack applications, convincing TypeScript
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://discord.com/users/gk_rachit_27">
+<a href="https://instagram.com/gk_rachit_27">
 <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 
