@@ -33,12 +33,12 @@ Most of my time is spent building full-stack applications, convincing TypeScript
 <img src="https://skillicons.dev/icons?i=discord" height="45"/>
 </a>
 
-</p>
-
-<p align="left">
   <img src="duck.gif" width="50" alt="🦆" />
   <img src="https://readme-typing-svg.demolab.com?font=Slackey&size=15&pause=20&background=3EFF5200&multiline=true&width=435&lines=Life+goes+on+and+on+and+on+and+on+and+on+and;+on+and+on+and+on" alt="Typing SVG" />
+
 </p>
+
+
 
 </td>
 
