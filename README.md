@@ -22,16 +22,16 @@ Most of my time is spent building full-stack applications, convincing TypeScript
 
 <a href="mailto:rachitkale05@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a> Drop a Mail
+</a>
 <a href="https://linkedin.com/in/rachit-kale">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a> Let's Network
+</a>
 <a href="https://instagram.com/gk_rachit_27">
 <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a> Follow my journey
+</a>
 <a href="https://discord.com/users/rookie_27">
 <img src="https://skillicons.dev/icons?i=discord" height="45"/>
-</a> Let's chat on Discord
+</a>
 
 </p>
 
