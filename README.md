@@ -18,7 +18,7 @@ Most of my time is spent building full-stack applications, convincing TypeScript
 
 ## 🤝 Connect with Me
 
-<p align="left">
+<p align="left justify">
 
 <a href="mailto:rachitkale05@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
