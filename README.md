@@ -18,20 +18,20 @@ Most of my time is spent building full-stack applications, convincing TypeScript
 
 ## 🤝 Connect with Me
 
-<p align="left justify">
+<p align="left">
 
 <a href="mailto:rachitkale05@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a> 
+</a> Drop a Mail
 <a href="https://linkedin.com/in/rachit-kale">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a> 
+</a> Let's Network
 <a href="https://instagram.com/gk_rachit_27">
 <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a> 
+</a> Follow my journey
 <a href="https://discord.com/users/rookie_27">
 <img src="https://skillicons.dev/icons?i=discord" height="45"/>
-</a>
+</a> Let's chat on Discord
 
 </p>
 
